@@ -5,7 +5,7 @@ import Dashboard from './Components/Dashboard'
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Dashboard />
       </BrowserRouter>
     );

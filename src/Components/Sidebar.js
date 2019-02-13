@@ -17,6 +17,8 @@ import { Link } from 'react-router-dom';
 
 import styles from './styles';
 
+import GitHubLogo from '../Assets/GitHub-Mark.png';
+
 const textDecorationNone = {
     textDecoration: 'none'
 };
@@ -55,6 +57,16 @@ const Sidebar = (props) => {
                         <ListItemText primary='Preview' />
                     </ListItem>
                 </Link>
+                <a href='https://github.com/PabloPaglilla/md-previewer' style={textDecorationNone}>
+                    <ListItem button>
+                        <ListItemIcon>
+                            <img src={GitHubLogo} alt='Github repository' style={{
+                                height: '26px'
+                            }} />
+                        </ListItemIcon>
+                        <ListItemText primary='Github' />
+                    </ListItem>
+                </a>
             </List>
         </Drawer>
     )
