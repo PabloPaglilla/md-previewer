@@ -1,13 +1,13 @@
 {
-  "main.css": "%20//pablopaglilla.github.io/md-previewer/static/css/main.f1228a25.chunk.css",
-  "main.js": "%20//pablopaglilla.github.io/md-previewer/static/js/main.52f7a612.chunk.js",
-  "main.js.map": "%20//pablopaglilla.github.io/md-previewer/static/js/main.52f7a612.chunk.js.map",
-  "runtime~main.js": "%20//pablopaglilla.github.io/md-previewer/static/js/runtime~main.3b8e1919.js",
-  "runtime~main.js.map": "%20//pablopaglilla.github.io/md-previewer/static/js/runtime~main.3b8e1919.js.map",
-  "static/js/2.5317222e.chunk.js": "%20//pablopaglilla.github.io/md-previewer/static/js/2.5317222e.chunk.js",
-  "static/js/2.5317222e.chunk.js.map": "%20//pablopaglilla.github.io/md-previewer/static/js/2.5317222e.chunk.js.map",
-  "index.html": "%20//pablopaglilla.github.io/md-previewer/index.html",
-  "precache-manifest.1a4e599cd9fcf19c61ada12388e7418c.js": "%20//pablopaglilla.github.io/md-previewer/precache-manifest.1a4e599cd9fcf19c61ada12388e7418c.js",
-  "service-worker.js": "%20//pablopaglilla.github.io/md-previewer/service-worker.js",
-  "static/css/main.f1228a25.chunk.css.map": "%20//pablopaglilla.github.io/md-previewer/static/css/main.f1228a25.chunk.css.map"
+  "main.css": "/md-previewer/static/css/main.f1228a25.chunk.css",
+  "main.js": "/md-previewer/static/js/main.85475a0d.chunk.js",
+  "main.js.map": "/md-previewer/static/js/main.85475a0d.chunk.js.map",
+  "runtime~main.js": "/md-previewer/static/js/runtime~main.982aecf2.js",
+  "runtime~main.js.map": "/md-previewer/static/js/runtime~main.982aecf2.js.map",
+  "static/js/2.5317222e.chunk.js": "/md-previewer/static/js/2.5317222e.chunk.js",
+  "static/js/2.5317222e.chunk.js.map": "/md-previewer/static/js/2.5317222e.chunk.js.map",
+  "index.html": "/md-previewer/index.html",
+  "precache-manifest.8cf9557b135fdeadbb9be7f1cc46c920.js": "/md-previewer/precache-manifest.8cf9557b135fdeadbb9be7f1cc46c920.js",
+  "service-worker.js": "/md-previewer/service-worker.js",
+  "static/css/main.f1228a25.chunk.css.map": "/md-previewer/static/css/main.f1228a25.chunk.css.map"
 }

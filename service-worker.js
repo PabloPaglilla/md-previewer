@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "%20//pablopaglilla.github.io/md-previewer/precache-manifest.1a4e599cd9fcf19c61ada12388e7418c.js"
+  "/md-previewer/precache-manifest.8cf9557b135fdeadbb9be7f1cc46c920.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("%20//pablopaglilla.github.io/md-previewer/index.html", {
+workbox.routing.registerNavigationRoute("/md-previewer/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
